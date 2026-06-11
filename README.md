@@ -39,18 +39,6 @@ This website is fully responsive and optimized for:
 
 ---
 
-## 📂 Folder Structure
-
-project/
-│── index.html
-│── style.css
-│── script.js
-│
-└── assets/
-    ├── images/
-    └── videos/
----
-
 ## ⚡ Performance Optimizations
 
 * Optimized image sizing
@@ -73,7 +61,7 @@ project/
 
 ## 🌐 Live Demo
 
-(Add your deployed link here — Netlify/Vercel)
+https://luxewatches.netlify.app/
 
 ---
 
